@@ -40,6 +40,11 @@ Clean, color-coded interface using colorama
 
 <h1>installation</h1>
 
+```cmd
+windows + R 
+
+```cmd
+cmd in the window
 ```bash
 git clone https://github.com/0xruw/infosta.git
 
