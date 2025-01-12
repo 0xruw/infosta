@@ -85,5 +85,55 @@ Clean, color-coded interface using colorama
      Password=كلمة المرور
      ```
 
+     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Installation  ish
+
+1. Install the required dependencies:
+   ```bash
+   pip install requests instaloader colorama
+   ```
+
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/0xruw/infosta.git
+   ```
+
+3. **Set up Telegram and Instagram information:**
+   - Create a `settings.txt` file in the root directory of the project.
+   - Add the following information to the `settings.txt` file:
+
+     ```
+     Bot_token=your_telegram_bot_token
+     User_id=your_telegram_user_id
+     Your_instagram_(fake)=your_instagram_username
+     Password=your_instagram_password
+     ```
+
+   Replace `your_telegram_bot_token`, `your_telegram_user_id`, `your_instagram_username`, and `your_instagram_password` with your own credentials.
+## التثبيت على ish
+
+1. تثبيت الحزم المطلوبة:
+   ```bash
+   pip install requests instaloader colorama
+   ```
+
+2. استنساخ المستودع:
+   ```bash
+   git clone https://github.com/0xruw/infosta.git
+   ```
+
+3. **إعداد معلومات تلغرام وإنستجرام:**
+   - أنشئ ملف `settings.txt` في الدليل الرئيسي للمشروع.
+   - أضف المعلومات التالية إلى ملف `settings.txt`:
+
+     ```
+     Bot_token=التوكن
+     User_id=الايدي
+     Your_instagram_(fake)= اسم المستخدم
+     Password=كلمة المرور
+     ```
+
+
    استبدل `التوكن` و `الايدي` و `اسم المستخدم` و `كلمة المرور` بمعلوماتك الخاصة. (حساب وهمي لن احتمال يتبند)
 
