@@ -62,6 +62,10 @@ Clean, color-coded interface using colorama
      ```
 
    Replace `your_telegram_bot_token`, `your_telegram_user_id`, `your_instagram_username`, and `your_instagram_password` with your own credentials.
+
+  4. **RUN 0xruwinfosta.exe **
+
+
 ## التثبيت على ويندوز
 
 1. تثبيت الحزم المطلوبة:
@@ -84,6 +88,8 @@ Clean, color-coded interface using colorama
      Your_instagram_(fake)= اسم المستخدم
      Password=كلمة المرور
      ```
+       4. **شغل البرنامج  0xruwinfosta.exe **
+
 
      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
