@@ -1,6 +1,6 @@
 # infosta
 
-Instagram Details Fetcher Tool
+<h1> Instagram Details Fetcher Tool </h1>
 
 This tool allows users to fetch detailed information from Instagram profiles, either for a single user or multiple users. The program supports fetching essential data like the full name, number of followers, posts, bio, profile picture URL, and even the account creation year (based on the user ID).
 
@@ -16,8 +16,7 @@ Multiple options for searching (single user or bulk list of users from a file)
 Clean, color-coded interface using colorama
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-الوصف باللغة العربية:#
+<h1>أداة جلب تفاصيل حسابات إنستاجرام</h1>
 أداة جلب تفاصيل حسابات إنستاجرام
 
 هذه الأداة تتيح للمستخدمين جلب معلومات تفصيلية من حسابات إنستاجرام، سواء لحساب واحد أو لعدة حسابات. يدعم البرنامج جلب بيانات أساسية مثل الاسم الكامل، عدد المتابعين، المنشورات، السيرة الذاتية، رابط صورة الملف الشخصي، وحتى سنة إنشاء الحساب (استنادًا إلى معرّف المستخدم).
