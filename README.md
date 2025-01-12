@@ -91,11 +91,11 @@ Clean, color-coded interface using colorama
        4. **شغل البرنامج  0xruwinfosta.exe **
 
 
-     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Installation  ish
+## Installation on iSH
 
-1. Install the required dependencies:
+1. Install the required packages:
    ```bash
    pip install requests instaloader colorama
    ```
@@ -104,27 +104,40 @@ Clean, color-coded interface using colorama
    ```bash
    git clone https://github.com/0xruw/infosta.git
    ```
+   ```bash
+   cd infosta
+   ```
 
 3. **Set up Telegram and Instagram information:**
-   - Create a `settings.txt` file in the root directory of the project.
-   - Add the following information to the `settings.txt` file:
+   - Edit the `settings.txt` file and add your information as shown below.
+   - We recommend using the **Koder** app to edit the file.
 
      ```
-     Bot_token=your_telegram_bot_token
-     User_id=your_telegram_user_id
-     Your_instagram_(fake)=your_instagram_username
-     Password=your_instagram_password
+     Bot_token=your_token
+     User_id=your_user_id
+     Your_instagram_(fake)=your_username
+     Password=your_password
      ```
 
-   Replace `your_telegram_bot_token`, `your_telegram_user_id`, `your_instagram_username`, and `your_instagram_password` with your own credentials.
-## التثبيت على ish
+   - Replace `your_token`, `your_user_id`, `your_username`, and `your_password` with your own information. (Using a fake account is recommended to avoid getting banned)
 
-1. تثبيت الحزم المطلوبة:
+4. Run the script:
+   ```bash
+   python3 0xruwinfosta.py
+   ```
+
+---
+
+## تثبيت المشروع / Installation
+
+### التثبيت على iSH / Installation on iSH
+
+1. تثبيت الحزم المطلوبة / Install the required packages:
    ```bash
    pip install requests instaloader colorama
    ```
 
-2. استنساخ المستودع:
+2. استنساخ المستودع / Clone the repository:
    ```bash
    git clone https://github.com/0xruw/infosta.git
    ```
@@ -132,21 +145,21 @@ Clean, color-coded interface using colorama
    cd infosta
    ```
 
-3. **إعداد معلومات تلغرام وإنستجرام:**
-   -عدل الملف `settings.txt` و حط فيه معلوماتك زي الي تحت
-   ارشح لك تطبيق koder للتعديل الملفات
+3. **إعداد معلومات تلغرام وإنستجرام / Set up Telegram and Instagram information:**
+   - عدّل الملف `settings.txt` وضع فيه معلوماتك كما هو موضح أدناه
+   - يفضل استخدام تطبيق **Koder** لتعديل الملفات.
 
      ```
      Bot_token=التوكن
      User_id=الايدي
-     Your_instagram_(fake)= اسم المستخدم
+     Your_instagram_(fake)=اسم المستخدم
      Password=كلمة المرور
      ```
 
+   - استبدل `التوكن` و `الايدي` و `اسم المستخدم` و `كلمة المرور` بمعلوماتك الخاصة. (يُفضل استخدام حساب وهمي لتجنب حظر الحساب)
 
-   استبدل `التوكن` و `الايدي` و `اسم المستخدم` و `كلمة المرور` بمعلوماتك الخاصة. (حساب وهمي لن احتمال يتبند)
-
-  4. run in python :
-     ```
-     python3 0xruwinfosta.py
-     ```
+4. تشغيل السكربت / Run the script:
+   ```bash
+   python3 0xruwinfosta.py
+   ```
+```
