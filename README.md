@@ -41,10 +41,9 @@ Clean, color-coded interface using colorama
 <h1>installation</h1>
 
 ```cmd
-windows + R 
+pip install requests instaloader colorama 
 
-```cmd
-cmd in the window
 ```bash
-git clone https://github.com/0xruw/infosta.git
+git clone https://github.com/0xruw/infosta.git```
+
 
