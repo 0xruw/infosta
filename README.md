@@ -15,7 +15,9 @@ Send gathered details directly to Telegram
 Multiple options for searching (single user or bulk list of users from a file)
 Clean, color-coded interface using colorama
 </p>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h1>أداة جلب تفاصيل حسابات إنستاجرام</h1>
 
 <p>
