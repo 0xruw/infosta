@@ -1,0 +1,4 @@
+Bot_token=HERE
+User_id=HERE
+Your_instagram_(fake)=HERE
+Password=HERE
