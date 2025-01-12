@@ -62,11 +62,28 @@ Clean, color-coded interface using colorama
      ```
 
    Replace `your_telegram_bot_token`, `your_telegram_user_id`, `your_instagram_username`, and `your_instagram_password` with your own credentials.
+## التثبيت على ويندوز
 
-4. **Convert to Executable:**
-   - After installing dependencies and setting up the `settings.txt` file, you can convert the script to an EXE file using the following command:
+1. تثبيت الحزم المطلوبة:
    ```bash
-   pyinstaller --onefile your_script.py
+   pip install requests instaloader colorama
    ```
-   This will generate a single executable file located in the `dist` folder.
+
+2. استنساخ المستودع:
+   ```bash
+   git clone https://github.com/0xruw/infosta.git
+   ```
+
+3. **إعداد معلومات تلغرام وإنستجرام:**
+   - أنشئ ملف `settings.txt` في الدليل الرئيسي للمشروع.
+   - أضف المعلومات التالية إلى ملف `settings.txt`:
+
+     ```
+     Bot_token=رمز_البوت_بتاعك_على_تلغرام
+     User_id=معرف_المستخدم_بتاعك_على_تلغرام
+     Your_instagram_(fake)=اسم_المستخدم_بتاعك_على_إنستجرام
+     Password=كلمة_المرور_بتاعك_على_إنستجرام
+     ```
+
+   استبدل `رمز_البوت_بتاعك_على_تلغرام` و `معرف_المستخدم_بتاعك_على_تلغرام` و `اسم_المستخدم_بتاعك_على_إنستجرام` و `كلمة_المرور_بتاعك_على_إنستجرام` بمعلوماتك الخاصة.
 
