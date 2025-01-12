@@ -38,8 +38,12 @@ Clean, color-coded interface using colorama
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Installation
+## Installation Windows
 
 1. Install the required dependencies:
    ```bash
    pip install requests instaloader colorama
+2.Clone the repository:
+   ```bash
+git clone https://github.com/0xruw/infosta.git
+
