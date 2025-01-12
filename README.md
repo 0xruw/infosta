@@ -38,12 +38,35 @@ Clean, color-coded interface using colorama
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Installation Windows
+## Installation windows
 
 1. Install the required dependencies:
    ```bash
    pip install requests instaloader colorama
-2.Clone the repository:
+   ```
+
+2. Clone the repository:
    ```bash
-git clone https://github.com/0xruw/infosta.git
+   git clone https://github.com/0xruw/infosta.git
+   ```
+
+3. **Set up Telegram and Instagram information:**
+   - Create a `settings.txt` file in the root directory of the project.
+   - Add the following information to the `settings.txt` file:
+
+     ```
+     Bot_token=your_telegram_bot_token
+     User_id=your_telegram_user_id
+     Your_instagram_(fake)=your_instagram_username
+     Password=your_instagram_password
+     ```
+
+   Replace `your_telegram_bot_token`, `your_telegram_user_id`, `your_instagram_username`, and `your_instagram_password` with your own credentials.
+
+4. **Convert to Executable:**
+   - After installing dependencies and setting up the `settings.txt` file, you can convert the script to an EXE file using the following command:
+   ```bash
+   pyinstaller --onefile your_script.py
+   ```
+   This will generate a single executable file located in the `dist` folder.
 
