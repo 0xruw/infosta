@@ -38,12 +38,8 @@ Clean, color-coded interface using colorama
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1>installation</h1>
+### Installation
 
-```cmd
-pip install requests instaloader colorama 
-
-```bash
-git clone https://github.com/0xruw/infosta.git```
-
-
+1. Install the required dependencies:
+   ```bash
+   pip install requests instaloader colorama
