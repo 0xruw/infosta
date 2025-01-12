@@ -128,6 +128,9 @@ Clean, color-coded interface using colorama
    ```bash
    git clone https://github.com/0xruw/infosta.git
    ```
+   ```bash
+   cd infosta
+   ```
 
 3. **إعداد معلومات تلغرام وإنستجرام:**
    -عدل الملف `settings.txt` و حط فيه معلوماتك زي الي تحت
