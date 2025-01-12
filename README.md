@@ -16,6 +16,9 @@ Multiple options for searching (single user or bulk list of users from a file)
 Clean, color-coded interface using colorama
 </p>
 
+<h1 style="color: red;">لازم تكون مثبت بايثون و pip</h1>
+<h1 style="color: red;">You must have Python and pip installed</h1>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>أداة جلب تفاصيل حسابات الانستا</h1>
