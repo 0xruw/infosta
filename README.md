@@ -130,8 +130,8 @@ Clean, color-coded interface using colorama
    ```
 
 3. **إعداد معلومات تلغرام وإنستجرام:**
-   - أنشئ ملف `settings.txt` في الدليل الرئيسي للمشروع.
-   - أضف المعلومات التالية إلى ملف `settings.txt`:
+   -عدل الملف `settings.txt` و حط فيه معلوماتك زي الي تحت
+   ارشح لك تطبيق koder للتعديل الملفات
 
      ```
      Bot_token=التوكن
@@ -143,3 +143,7 @@ Clean, color-coded interface using colorama
 
    استبدل `التوكن` و `الايدي` و `اسم المستخدم` و `كلمة المرور` بمعلوماتك الخاصة. (حساب وهمي لن احتمال يتبند)
 
+  4. run in python :
+     ```
+     python3 0xruwinfosta.py
+     ```
